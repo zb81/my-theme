@@ -7,7 +7,6 @@
 
 html {
   background-color: var(--c-bg);
-  transition: background-color .25s;
   color: var(--c-text-color);
   overflow-x: hidden;
   overflow-y: scroll;
